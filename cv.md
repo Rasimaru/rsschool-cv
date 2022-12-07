@@ -33,3 +33,21 @@ if (menuBurger) {
 }
 ```
 ---
+
+## **Education & courses**
+### **University:**
+- Yanka Kupala State University of Grodno   
+*Industrial and Civil engineering*  
+*2017* - bachelor degree  
+### **Courses:**  
+- [The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)(in progress)  
+- [learn.javascript.ru](https://learn.javascript.ru/first-steps) (in progress)  
+- [Layout Designer](https://edu.fls.guru/)  
+- [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)(in progress)  
+---
+
+## Languages:
+- English \- B2 (C1+ according to the EF SET Quick Check)
+- Belorussian \- Native
+- Russian \- Native
+- Polish \- In progress
