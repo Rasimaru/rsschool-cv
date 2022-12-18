@@ -1,7 +1,7 @@
 @import url("nullstyle.css");
 /* ==================================================== */
 
-@import url(https://fonts.googleapis.com/css?family=Inter:regular,500,700,900);
+@import url('https://fonts.googleapis.com/css?family=Inter:regular,500,700,900');
 
 /* ==================================================== */
 body {
@@ -215,31 +215,31 @@ section {
 }
 
 .list-contacts__items .list-contacts__item:nth-child(1) {
-	background: url('/rsschool-cv/assets/img/icon/contacts/mail.svg') 0 2px/20px no-repeat;
+	background: url('../assets/img/icon/contacts/mail.svg') 0 2px/20px no-repeat;
 	min-height: 16px;
 	padding-left: 40px;
 }
 
 .list-contacts__items .list-contacts__item:nth-child(2) {
-	background: url('/rsschool-cv/assets/img/icon/contacts/telegram.svg') 0 2px/20px no-repeat;
+	background: url('../assets/img/icon/contacts/telegram.svg') 0 2px/20px no-repeat;
 	min-height: 16px;
 	padding-left: 40px;
 }
 
 .list-contacts__items .list-contacts__item:nth-child(3) {
-	background: url('/rsschool-cv/assets/img/icon/contacts/linkedin.svg') 0 2px/20px no-repeat;
+	background: url('../assets/img/icon/contacts/linkedin.svg') 0 2px/20px no-repeat;
 	min-height: 16px;
 	padding-left: 40px;
 }
 
 .list-contacts__items .list-contacts__item:nth-child(4) {
-	background: url('/rsschool-cv/assets/img/icon/contacts/github.svg') 0 2px/20px no-repeat;
+	background: url('../assets/img/icon/contacts/github.svg') 0 2px/20px no-repeat;
 	min-height: 16px;
 	padding-left: 40px;
 }
 
 .list-contacts__items .list-contacts__item:nth-child(5) {
-	background: url('/rsschool-cv/assets/img/icon/contacts/discord.svg') 0 2px/20px no-repeat;
+	background: url('../assets/img/icon/contacts/discord.svg') 0 2px/20px no-repeat;
 	min-height: 16px;
 	padding-left: 40px;
 }
@@ -350,7 +350,7 @@ section {
 
 .footer__github-link::before {
 	content: ' ';
-	background: url('/rsschool-cv/assets/img/icon/footer/github-logo.svg') 0 0/46px no-repeat;
+	background: url('../assets/img/icon/footer/github-logo.svg') 0 0/46px no-repeat;
 	display: inline-block;
 	width: 46px;
 	height: 46px;
@@ -372,7 +372,7 @@ section {
 
 .footer__school-link::after {
 	content: ' ';
-	background: url('/rsschool-cv/assets/img/icon/footer/rs-logo.svg') 0 0/120px no-repeat;
+	background: url('../assets/img/icon/footer/rs-logo.svg') 0 0/120px no-repeat;
 	display: inline-block;
 	width: 120px;
 	height: 46px;
