@@ -8,6 +8,8 @@
 	border: 0;
 }
 
+ul,
+ol,
 li {
 	list-style: none;
 }
@@ -43,6 +45,20 @@ body,
 html {
 	height: 100%;
 	line-height: 1;
+}
+
+textarea,
+button,
+input {
+	font-weight: inherit;
+	font-size: inherit;
+	color: inherit;
+	font-family: inherit;
+}
+
+button {
+	cursor: pointer;
+	background-color: inherit;
 }
 
 /* ================================================================ */
