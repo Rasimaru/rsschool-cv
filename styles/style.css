@@ -32,7 +32,7 @@ section {
   max-width: 1000px;
   margin: 0 auto;
   overflow: clip;
-  background: rgba(49, 49, 49, 0.9);
+  background: #101010;
 }
 
 [class*="__container"] {
